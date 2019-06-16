@@ -1,0 +1,242 @@
+[I 14:41:37.247 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 14:41:37.247 NotebookApp] Serving notebooks from local directory: /Users/wenbin/Desktop/Unimelb_courses/MATH90105_Statistics/MAST90105-R-Review
+[I 14:41:37.247 NotebookApp] The Jupyter Notebook is running at:
+[I 14:41:37.247 NotebookApp] http://localhost:8888/?token=3f533cea22f3087e18025b6948eaba10a10fc897e6823b8d
+[I 14:41:37.247 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:41:37.254 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/wenbin/Library/Jupyter/runtime/nbserver-63582-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=3f533cea22f3087e18025b6948eaba10a10fc897e6823b8d
+[I 14:41:42.973 NotebookApp] Kernel started: 409bb2ea-6615-47b0-92a8-5ee0116ac6d6
+[W 14:41:43.312 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 12.27ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 14:41:43.699 NotebookApp] Adapting to protocol v5.0 for kernel 409bb2ea-6615-47b0-92a8-5ee0116ac6d6
+[I 14:43:42.955 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:43:45.146 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:43:45.400 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:43:45.773 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:43:57.003 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:45:42.955 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:47:42.955 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:49:42.965 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:51:42.967 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:55:42.985 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:57:42.960 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:59:42.967 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:01:42.963 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:02:48.302 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:03:29.774 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:04:11.658 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:04:11.821 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:04:11.969 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:04:41.928 NotebookApp] Starting buffering for 409bb2ea-6615-47b0-92a8-5ee0116ac6d6:52987cd8bd74423b8cd0a52a26409778
+[I 15:04:42.045 NotebookApp] Kernel restarted: 409bb2ea-6615-47b0-92a8-5ee0116ac6d6
+[I 15:04:42.706 NotebookApp] Adapting to protocol v5.0 for kernel 409bb2ea-6615-47b0-92a8-5ee0116ac6d6
+[I 15:04:42.707 NotebookApp] Restoring connection for 409bb2ea-6615-47b0-92a8-5ee0116ac6d6:52987cd8bd74423b8cd0a52a26409778
+[I 15:04:42.707 NotebookApp] Replaying 2 buffered messages
+[I 15:04:45.645 NotebookApp] Starting buffering for 409bb2ea-6615-47b0-92a8-5ee0116ac6d6:52987cd8bd74423b8cd0a52a26409778
+[I 15:04:45.758 NotebookApp] Kernel restarted: 409bb2ea-6615-47b0-92a8-5ee0116ac6d6
+[I 15:04:46.366 NotebookApp] Adapting to protocol v5.0 for kernel 409bb2ea-6615-47b0-92a8-5ee0116ac6d6
+[I 15:04:46.367 NotebookApp] Restoring connection for 409bb2ea-6615-47b0-92a8-5ee0116ac6d6:52987cd8bd74423b8cd0a52a26409778
+[I 15:05:09.156 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:15:42.963 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:16:27.981 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:17:42.962 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:18:24.106 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:18:24.290 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:18:24.406 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:19:17.314 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:21:42.967 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:23:43.332 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:25:42.965 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:27:42.968 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:29:42.966 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:31:42.963 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:33:44.587 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:35:42.967 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:37:42.970 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:39:42.977 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:41:43.162 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:43:43.241 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:44:16.074 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:44:16.442 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:44:16.625 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:44:17.121 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:44:17.260 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:44:17.622 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:44:17.772 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:45:42.976 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:46:01.005 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:47:42.960 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:48:03.393 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:48:21.862 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:48:48.421 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:48:48.583 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:48:48.726 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:48:48.885 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:49:24.385 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:51:42.962 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:52:42.185 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:52:42.380 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:52:42.526 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:52:42.668 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:53:42.962 NotebookApp] Saving file at /R_Review.ipynb
+trying URL 'https://cran.r-project.org/bin/macosx/el-capitan/contrib/3.5/MASS_7.3-51.4.tgz'
+Content type 'application/x-gzip' length 1163710 bytes (1.1 MB)
+========[I 15:55:42.960 NotebookApp] Saving file at /R_Review.ipynb
+==========================================
+downloaded 1.1 MB
+
+[I 15:57:42.962 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:58:47.136 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:59:42.960 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:01:42.962 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:03:42.986 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:05:42.326 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:07:42.966 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:07:45.542 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:07:45.872 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:07:46.064 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:07:53.049 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:08:03.604 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:09:42.964 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:10:34.300 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:10:34.587 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:10:34.745 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:12:50.678 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:12:51.542 NotebookApp] Saving file at /R_Review.ipynb
+[W 16:12:56.872 NotebookApp] Notebook R_Review.ipynb is not trusted
+[W 16:13:32.655 NotebookApp] Notebook R_Review.ipynb is not trusted
+[E 16:13:32.966 NotebookApp] nbconvert failed: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    http://pandoc.org/installing.html
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.6/site-packages/notebook/nbconvert/handlers.py", line 130, in get
+        resources=resource_dict
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/pdf.py", line 162, in from_notebook_node
+        nb, resources=resources, **kw
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/latex.py", line 82, in from_notebook_node
+        return super(LatexExporter, self).from_notebook_node(nb, resources, **kw)
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/templateexporter.py", line 295, in from_notebook_node
+        output = self.template.render(nb=nb_copy, resources=resources)
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/jinja2/asyncsupport.py", line 76, in render
+        return original_render(self, *args, **kwargs)
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/jinja2/environment.py", line 1008, in render
+        return self.environment.handle_exception(exc_info, True)
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/jinja2/environment.py", line 780, in handle_exception
+        reraise(exc_type, exc_value, tb)
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/jinja2/_compat.py", line 37, in reraise
+        raise value.with_traceback(tb)
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/../templates/latex/article.tplx", line 8, in top-level template code
+        ((* extends cell_style *))
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/../templates/latex/style_ipython.tplx", line 60, in top-level template code
+        ((( text | add_prompts(first='{\color{' ~ prompt_color ~ '}' ~ prompt ~ '[{\\color{' ~ prompt_color ~ '}' ~ execution_count ~ '}]:} ', cont=indention) )))
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/../templates/latex/base.tplx", line 6, in top-level template code
+        ((*- extends 'document_contents.tplx' -*))
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/../templates/latex/document_contents.tplx", line 50, in top-level template code
+        ((*- block figure scoped -*))
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/../templates/latex/skeleton/display_priority.tplx", line 5, in top-level template code
+        ((*- extends 'null.tplx' -*))
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/../templates/latex/skeleton/null.tplx", line 30, in top-level template code
+        ((*- block body -*))
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/../templates/latex/base.tplx", line 173, in block "body"
+        ((( super() )))
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/../templates/latex/skeleton/null.tplx", line 32, in block "body"
+        ((*- block any_cell scoped -*))
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/../templates/latex/skeleton/null.tplx", line 85, in block "any_cell"
+        ((*- block markdowncell scoped-*)) ((*- endblock markdowncell -*))
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/exporters/../templates/latex/document_contents.tplx", line 67, in block "markdowncell"
+        ((( cell.source | citation2latex | strip_files_prefix | convert_pandoc('markdown+tex_math_double_backslash', 'json',extra_args=[]) | resolve_references | convert_pandoc('json','latex'))))
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/filters/pandoc.py", line 26, in convert_pandoc
+        return pandoc(source, from_format, to_format, extra_args=extra_args)
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/utils/pandoc.py", line 51, in pandoc
+        check_pandoc_version()
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/utils/pandoc.py", line 96, in check_pandoc_version
+        v = get_pandoc_version()
+      File "/Users/wenbin/Library/Python/3.6/lib/python/site-packages/nbconvert/utils/pandoc.py", line 76, in get_pandoc_version
+        raise PandocMissing()
+    nbconvert.utils.pandoc.PandocMissing: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    http://pandoc.org/installing.html
+[W 16:13:32.977 NotebookApp] 500 GET /nbconvert/pdf/R_Review.ipynb?download=true (::1): nbconvert failed: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    http://pandoc.org/installing.html
+[E 16:13:32.979 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+      "Referer": "http://localhost:8888/notebooks/R_Review.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7",
+      "Cookie": "username-localhost-8890=\"2|1:0|10:1558432149|23:username-localhost-8890|44:OWZmM2VhYTlhYTM0NGZjODgwODBiNzIzMzJmMWJjYTY=|6d2b108f076276c43b3a0f2ef2d18b8cffa9db5a1d150ccd0fdeabff6f13ecce\"; username-localhost-8889=\"2|1:0|10:1558526645|23:username-localhost-8889|44:MWY2ZWU4ZmUzZjYxNGM1MGE5ODgyODVlMTE0MzRmZTA=|39588ada0ab6d8dd6166eeff9ca30736b7a860f33336406f9c3e8cf31b07e0ce\"; _xsrf=2|b76b87c1|80b41271773d63f2ee49bdf05de5bcae|1560655192; username-localhost-8888=\"2|1:0|10:1560660098|23:username-localhost-8888|44:MTY5MDlhNGRlMGQ5NGI5YWFhMjZjN2M2OGNmNzBmZGY=|294eb21949e5295cb55417b8a833a1f9c7521f56f181aab40eabbaeb9646a899\""
+    }
+[E 16:13:32.979 NotebookApp] 500 GET /nbconvert/pdf/R_Review.ipynb?download=true (::1) 369.79ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[W 16:13:51.475 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 16:15:42.972 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:17:42.967 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:18:20.666 NotebookApp] Starting buffering for 409bb2ea-6615-47b0-92a8-5ee0116ac6d6:52987cd8bd74423b8cd0a52a26409778
+[I 16:18:20.779 NotebookApp] Kernel restarted: 409bb2ea-6615-47b0-92a8-5ee0116ac6d6
+[I 16:18:21.350 NotebookApp] Adapting to protocol v5.0 for kernel 409bb2ea-6615-47b0-92a8-5ee0116ac6d6
+[I 16:18:21.351 NotebookApp] Restoring connection for 409bb2ea-6615-47b0-92a8-5ee0116ac6d6:52987cd8bd74423b8cd0a52a26409778
+[I 16:18:31.865 NotebookApp] Saving file at /R_Review.ipynb
+[W 16:18:32.017 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 16:25:42.980 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:27:42.967 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:29:34.818 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:41:43.034 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:41:59.397 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:42:30.245 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:42:30.412 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:42:30.763 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:42:30.942 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:42:31.098 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:42:31.785 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:43:42.973 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:43:58.648 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:44:00.059 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:45:30.600 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:45:38.502 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:45:38.660 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:45:38.781 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:46:36.646 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:46:54.499 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:47:42.975 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:51:43.975 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:52:37.321 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:53:42.978 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:55:44.479 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:57:42.979 NotebookApp] Saving file at /R_Review.ipynb
+[I 16:59:42.980 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:01:43.064 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:03:42.975 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:04:15.376 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:05:42.976 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:07:42.977 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:09:03.653 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:17:42.981 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:25:42.981 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:27:42.981 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:29:02.071 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:29:42.985 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:31:42.981 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:33:42.984 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:34:54.956 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:35:42.981 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:37:42.991 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:39:43.980 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:42:08.949 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:45:43.059 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:47:42.985 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:49:42.996 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:51:42.985 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:53:43.062 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:53:56.981 NotebookApp] Saving file at /R_Review.ipynb
+[I 17:54:02.000 NotebookApp] Starting buffering for 409bb2ea-6615-47b0-92a8-5ee0116ac6d6:52987cd8bd74423b8cd0a52a26409778
+[I 17:54:47.294 NotebookApp] 302 GET / (::1) 0.54ms
+[W 17:54:49.846 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 17:54:51.204 NotebookApp] Adapting to protocol v5.0 for kernel 409bb2ea-6615-47b0-92a8-5ee0116ac6d6
+[W 17:54:51.927 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 2.20ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[W 17:55:12.940 NotebookApp] Notebook R_Review.ipynb is not trusted
