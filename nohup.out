@@ -240,3 +240,207 @@ downloaded 1.1 MB
 [I 17:54:51.204 NotebookApp] Adapting to protocol v5.0 for kernel 409bb2ea-6615-47b0-92a8-5ee0116ac6d6
 [W 17:54:51.927 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 2.20ms referer=http://localhost:8888/notebooks/R_Review.ipynb
 [W 17:55:12.940 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 17:59:59.861 NotebookApp] Starting buffering for 409bb2ea-6615-47b0-92a8-5ee0116ac6d6:f209322b0a6c422785f4ecdf4218ccd6
+[I 18:00:04.532 NotebookApp] Kernel shutdown: 409bb2ea-6615-47b0-92a8-5ee0116ac6d6
+[W 11:26:36.367 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 11:26:37.753 NotebookApp] Kernel started: aaf85b67-a48c-4343-bd48-c96812072d50
+[W 11:26:38.431 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 4.00ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 11:26:38.476 NotebookApp] Adapting to protocol v5.0 for kernel aaf85b67-a48c-4343-bd48-c96812072d50
+[I 11:30:38.028 NotebookApp] Saving file at /R_Review.ipynb
+[W 11:30:38.030 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 11:32:37.777 NotebookApp] Saving file at /R_Review.ipynb
+[W 11:32:37.779 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 11:34:37.774 NotebookApp] Saving file at /R_Review.ipynb
+[W 11:34:37.776 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 11:38:37.782 NotebookApp] Saving file at /R_Review.ipynb
+[W 11:38:37.783 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 11:40:37.487 NotebookApp] Saving file at /R_Review.ipynb
+[W 11:40:37.488 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 11:42:37.996 NotebookApp] Saving file at /R_Review.ipynb
+[W 11:42:37.997 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 11:44:38.046 NotebookApp] Saving file at /R_Review.ipynb
+[W 11:44:38.050 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 11:46:37.497 NotebookApp] Saving file at /R_Review.ipynb
+[W 11:46:37.498 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 11:46:47.336 NotebookApp] Saving file at /R_Review.ipynb
+[W 11:46:47.338 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 11:46:48.916 NotebookApp] Starting buffering for aaf85b67-a48c-4343-bd48-c96812072d50:b473b50ba63a41e0855c409774c95a27
+[I 11:46:51.393 NotebookApp] Kernel shutdown: aaf85b67-a48c-4343-bd48-c96812072d50
+[W 11:46:54.092 NotebookApp] Notebook R_Review.ipynb is not trusted
+[I 11:46:55.591 NotebookApp] Kernel started: a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 11:46:56.194 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[W 11:46:56.263 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 3.23ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 11:46:59.876 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:8f1415dfff204ff68b44cdd494acb949
+[I 11:46:59.992 NotebookApp] Kernel restarted: a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 11:47:00.712 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 11:47:00.712 NotebookApp] Restoring connection for a461a759-b114-4453-b5eb-e7bd9ea11612:8f1415dfff204ff68b44cdd494acb949
+[I 11:47:00.713 NotebookApp] Replaying 2 buffered messages
+[I 11:47:29.162 NotebookApp] Saving file at /R_Review.ipynb
+[I 11:47:29.257 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:8f1415dfff204ff68b44cdd494acb949
+[I 11:47:30.947 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[W 11:47:31.894 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 2.08ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 11:49:30.849 NotebookApp] Saving file at /R_Review.ipynb
+[I 11:50:03.698 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:a8d505b5c8b0429c983d298ab08f9472
+[W 11:50:08.468 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 2.35ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 11:50:08.601 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 11:50:26.271 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:4973326d6f8b486d80ae10fc8b6cb138
+[I 11:50:26.385 NotebookApp] Kernel restarted: a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 11:50:27.054 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 11:50:27.055 NotebookApp] Restoring connection for a461a759-b114-4453-b5eb-e7bd9ea11612:4973326d6f8b486d80ae10fc8b6cb138
+[I 11:50:40.267 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:4973326d6f8b486d80ae10fc8b6cb138
+[I 11:50:40.380 NotebookApp] Kernel restarted: a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 11:50:41.073 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 11:50:41.074 NotebookApp] Restoring connection for a461a759-b114-4453-b5eb-e7bd9ea11612:4973326d6f8b486d80ae10fc8b6cb138
+[I 11:50:41.074 NotebookApp] Replaying 2 buffered messages
+[I 11:50:46.904 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:4973326d6f8b486d80ae10fc8b6cb138
+[I 11:50:47.018 NotebookApp] Kernel restarted: a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 11:50:47.641 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 11:50:47.642 NotebookApp] Restoring connection for a461a759-b114-4453-b5eb-e7bd9ea11612:4973326d6f8b486d80ae10fc8b6cb138
+[I 11:50:55.632 NotebookApp] Saving file at /R_Review.ipynb
+[I 11:50:55.724 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:4973326d6f8b486d80ae10fc8b6cb138
+[I 11:50:57.265 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[W 11:50:58.187 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 3.52ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 11:52:57.775 NotebookApp] Saving file at /R_Review.ipynb
+[I 11:54:57.767 NotebookApp] Saving file at /R_Review.ipynb
+[I 11:56:57.185 NotebookApp] Saving file at /R_Review.ipynb
+[I 11:58:57.151 NotebookApp] Saving file at /R_Review.ipynb
+[I 11:59:36.285 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:cc0ae2f8e1164726a8fbadbfcf1710b0
+[I 11:59:36.401 NotebookApp] Kernel restarted: a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 11:59:37.031 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 11:59:37.033 NotebookApp] Restoring connection for a461a759-b114-4453-b5eb-e7bd9ea11612:cc0ae2f8e1164726a8fbadbfcf1710b0
+[I 11:59:37.033 NotebookApp] Replaying 2 buffered messages
+[I 12:00:57.156 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:02:57.152 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:04:57.154 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:06:49.306 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:06:50.898 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:cc0ae2f8e1164726a8fbadbfcf1710b0
+[I 12:10:01.559 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[W 12:10:02.079 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 2.85ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 12:12:02.512 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:12:18.138 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:ed6b9a555cab481d82f1d77987de1ef8
+[I 12:12:20.162 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[W 12:12:20.591 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 2.41ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 12:14:19.933 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:15:17.646 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:15:18.847 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:3aadb3fccd1548ac859312183e97b075
+[I 12:15:23.611 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[W 12:15:23.632 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 2.61ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 12:17:23.452 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:19:23.455 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:21:23.507 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:23:23.441 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:25:23.653 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:27:03.101 NotebookApp] Saving file at /R_Review.ipynb
+[I 12:30:17.666 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:24:27.648 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:26:27.585 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:28:27.588 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:30:27.590 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:32:27.589 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:34:27.589 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:36:27.672 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:38:27.683 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:40:27.667 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:42:27.596 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:44:01.742 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:48:27.599 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:50:27.604 NotebookApp] Saving file at /R_Review.ipynb
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/evd_2.3-3.tgz'
+Content type 'application/x-gzip' length 1566802 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/evd_2.3-3.tgz'
+Content type 'application/x-gzip' length 1566802 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+[I 13:52:27.608 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:54:27.596 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:56:27.603 NotebookApp] Saving file at /R_Review.ipynb
+[I 13:58:27.597 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:00:27.596 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:02:27.639 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:04:27.617 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:06:27.606 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:08:27.602 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:10:27.741 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:12:27.676 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:14:27.602 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:16:27.604 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:18:27.613 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:20:27.671 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:22:27.696 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:24:27.612 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:26:27.604 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:28:27.607 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:30:27.611 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:32:27.630 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:34:27.627 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:36:27.668 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:38:27.613 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:40:27.612 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:42:27.609 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:44:27.638 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:46:27.613 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:48:27.610 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:50:27.627 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:52:27.621 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:54:27.623 NotebookApp] Saving file at /R_Review.ipynb
+[I 14:56:28.182 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:00:27.627 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:02:28.155 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:06:27.629 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:07:23.653 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:4f17229433fd44e1b3d7e7a52702a287
+Warning messages:
+1: In formals(fun) : argument is not a function
+2: In formals(fun) : argument is not a function
+[I 15:07:23.770 NotebookApp] Kernel restarted: a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 15:07:24.352 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 15:07:24.353 NotebookApp] Restoring connection for a461a759-b114-4453-b5eb-e7bd9ea11612:4f17229433fd44e1b3d7e7a52702a287
+[I 15:07:24.353 NotebookApp] Replaying 2 buffered messages
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/evd_2.3-3.tgz'
+Content type 'application/x-gzip' length 1566802 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+[I 15:07:50.720 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:10:57.687 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:4f17229433fd44e1b3d7e7a52702a287
+[W 15:10:58.256 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 1.92ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 15:11:00.711 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 15:11:49.314 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:f293c95e284f459497674e08f75c4d89
+[W 15:11:49.885 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 1.89ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 15:11:52.291 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 15:12:26.034 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:345421e988b14037beba1f346c45ba97
+[I 15:12:26.158 NotebookApp] Kernel restarted: a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 15:12:26.849 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 15:12:26.850 NotebookApp] Restoring connection for a461a759-b114-4453-b5eb-e7bd9ea11612:345421e988b14037beba1f346c45ba97
+[I 15:12:26.851 NotebookApp] Replaying 2 buffered messages
+trying URL 'https://cloud.r-project.org/bin/macosx/el-capitan/contrib/3.5/evd_2.3-3.tgz'
+Content type 'application/x-gzip' length 1566802 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+[I 15:12:52.147 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:14:34.183 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:345421e988b14037beba1f346c45ba97
+[W 15:14:34.837 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 2.51ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 15:14:37.408 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 15:14:52.438 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:fd94440a32854f9a949727cbd840487b
+[W 15:14:53.087 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 3.14ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 15:14:55.662 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 15:15:00.097 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:091553630c434ad690e3526e59237719
+[I 15:15:02.782 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[W 15:15:02.862 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 2.24ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 15:16:03.217 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:023a6b4ad1c0427c84e371bda76a5d71
+[W 15:16:03.925 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 3.13ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 15:16:06.238 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 15:16:18.130 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:1b584cef9d2d45c18b05853a24a85ca9
+[W 15:16:18.573 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 2.14ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 15:16:21.002 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[I 15:16:37.415 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:80ff1e9239e34ac2b367f00987b0f626
+[I 15:16:40.283 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
+[W 15:16:40.370 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 2.97ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 15:17:59.422 NotebookApp] Saving file at /R_Review.ipynb
+[I 15:19:03.267 NotebookApp] Starting buffering for a461a759-b114-4453-b5eb-e7bd9ea11612:5b7eb02ff5324ac28ea234152735c7a5
+[W 15:19:03.980 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190616144136 (::1) 1.84ms referer=http://localhost:8888/notebooks/R_Review.ipynb
+[I 15:19:06.191 NotebookApp] Adapting to protocol v5.0 for kernel a461a759-b114-4453-b5eb-e7bd9ea11612
